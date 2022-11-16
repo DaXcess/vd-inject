@@ -7,7 +7,7 @@ Note: This tool only works on games that have first class support for the Oculus
 
 ## Usage
 
-1. Download the latest release from the [releases page](https://swag.com)
+1. Download the latest release from the [releases page](https://github.com/DaXcess/vd-inject/releases)
 2. Run the executable
 
 ```bash
